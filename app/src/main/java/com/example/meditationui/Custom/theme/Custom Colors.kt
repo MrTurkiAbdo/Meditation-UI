@@ -1,4 +1,4 @@
-package com.example.meditationui.Custom.Colors
+package com.example.meditationui.Custom.theme
 
 import androidx.compose.ui.graphics.Color
 
