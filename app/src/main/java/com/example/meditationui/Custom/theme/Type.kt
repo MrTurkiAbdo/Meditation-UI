@@ -18,13 +18,18 @@ val gothicA1 = FontFamily(
     )
 )
 
-// Set of Material 3 typography styles
 val Typography = Typography(
     bodyMedium = TextStyle(
         color = AquaBlue,
         fontFamily = gothicA1,
         fontWeight = FontWeight.Normal,
         fontSize = 14.sp
+    ),
+    bodyLarge = TextStyle(
+        color = TextWhite,
+        fontFamily = gothicA1,
+        fontWeight = FontWeight.Normal,
+        fontSize = 16.sp
     ),
     headlineMedium = TextStyle(
         color = TextWhite,

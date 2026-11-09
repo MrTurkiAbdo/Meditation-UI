@@ -1,6 +1,6 @@
 package com.example.meditationui
 
-import android.graphics.Color
+import androidx.compose.ui.graphics.Color
 import androidx.annotation.DrawableRes
 
 data class Feature(
